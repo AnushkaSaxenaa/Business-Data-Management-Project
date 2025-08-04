@@ -1,6 +1,7 @@
 # Data-Driven Optimization of Sales and Inventory Management  
 **Shri Balaji Centre, a Mobile & Accessories Shop**  
-**By:** Anushka Saxena | IITM BS Data Science and Applications
+**By:** Anushka Saxena | IITM BS Data Science and Applications | 
+*I completed this project as part of the IIT Madras BS Degree Program and was awarded* **Grade A** *with a* **CGPA of 9**.
 
 ---
 
@@ -93,10 +94,9 @@ Special thanks to **Mr. Shashank Tripathi** (Owner, Shri Balaji Centre) for his 
 
 ## 📄 License
 
-You are welcome to reuse the analysis methodology and insights for **educational and non-commercial purposes**.
+You are welcome to reuse the analysis methodology and insights for **educational purposes**.
 
-All business data used in this project belongs to **Shri Balaji Centre** and should not be reproduced or redistributed without explicit permission from the owner.
-
+All business data utilized in this project is the intellectual property of  **Shri Balaji Centre**. The links to the dataset have been intentionally removed to uphold data confidentiality.
 > *Note: This project is a student submission as part of the IIT Madras Online BS Degree Program. It is not officially endorsed by IIT Madras.*
 
 ---
