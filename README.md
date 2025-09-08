@@ -1,13 +1,11 @@
 # Data-Driven Optimization of Sales and Inventory Management  
 **Shri Balaji Centre, a Mobile & Accessories Shop**  
-**By:** Anushka Saxena | IITM BS Data Science and Applications | 
-*I completed this project as part of the IIT Madras BS Degree Program and was awarded* **Grade A** *with a* **CGPA of 9**.
 
 ---
 
 ## 📌 Overview
 
-This repository contains all key deliverables for the Bachelor’s Data Management (BDM) Capstone Project titled:
+This repository contains all key deliverables for the Business Data Management Project titled:
 
 > **"Data-Driven Optimization of Sales and Inventory Management of a Mobile & Accessories Shop."**
 
@@ -25,19 +23,6 @@ The project leverages real business data to improve revenue, inventory practices
 
 3. **Demand-Supply Gap**  
    → Analyzing unmet demand for second-hand smartphones using customer feedback and proposing market entry.
-
----
-
-## ✅ Key Deliverables
-
-- **BDM Proposal Report**  
-  Background, objectives, planned methodology.
-
-- **Mid-Term Report**  
-  Proof of original data, metadata documentation, descriptive analysis.
-
-- **Final-Term Report**  
-  Full analysis: Pareto, ABC, Time Series, Safety Stock & ROP with interpretations and actionable strategies.
 
 ---
 
